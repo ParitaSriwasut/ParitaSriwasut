@@ -1,4 +1,4 @@
-![Alt Text](Parita Sriwasut.png)
+![Alt Text](https://github.com/ParitaSriwasut/ParitaSriwasut/blob/a8fcc53326d5659928914a8f39959c21e1b9e57b/Parita%20Sriwasut.png)
 
 
 <h1 align="center">Hi 👋, I'm Rita 🖖🏻 </h1>
