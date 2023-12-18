@@ -1,3 +1,6 @@
+![Alt Text](Parita Sriwasut.png)
+
+
 <h1 align="center">Hi 👋, I'm Rita 🖖🏻 </h1>
 <h3 align="center">A girl who passionate about frontend development.</h3>
 
