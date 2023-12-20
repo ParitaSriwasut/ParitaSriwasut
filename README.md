@@ -1,8 +1,8 @@
-![Alt Text](https://github.com/ParitaSriwasut/ParitaSriwasut/blob/a8fcc53326d5659928914a8f39959c21e1b9e57b/Parita%20Sriwasut.png)
+![Alt Text](https://github.com/ParitaSriwasut/ParitaSriwasut/blob/c96bd6ef4dbf341862ed2dbfc83fbcd0c7cf1401/Parita%20sriwasut%20(1).png)
 
 
 <h1 align="center">Hi , I'm Rita ˚🖐🏻 ༘˚◞♡  </h1>
-<h3 align="center"> ˚ ༘ 🦋𓈒 *. A girl who is passionate about frontend development ✧ ⋆♡̷̷̷🪐ˎˊ˗</h3>
+<h3 align="center"> ˚ ༘ 🦋𓈒 *. A girl who is passionate about frontend development ✧ ⋆♡🪐ˎˊ˗</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paritasriwasut&label=Profile%20views&color=0e75b6&style=flat" alt="paritasriwasut" /> </p>
 
