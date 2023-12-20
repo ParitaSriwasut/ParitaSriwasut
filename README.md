@@ -6,8 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paritasriwasut&label=Profile%20views&color=0e75b6&style=flat" alt="paritasriwasut" /> </p>
 
-- 🔭 I’m currently working on : [unitedskin-frontend](https://github.com/ParitaSriwasut/unitedskin-frontend) and [javascript-algorithms] (https://github.com/ParitaSriwasut/javascript-algorithms)
-
+- 🔭 I’m currently working on : [unitedskin-frontend](https://github.com/ParitaSriwasut/unitedskin-frontend) 
 - 🌱 I’m currently learning : **TypeScript, JavaScript Algorithms, MongoDB**
 
 - 💬 Ask me or give me some advice about : **Anything about Frontend! 🔫˖꙳◦**
