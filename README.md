@@ -13,7 +13,7 @@
 
 - 📫 How to reach me : **parita.sri0327@gmail.com**
 
-- 📄 Know about my experiences : [https://drive.google.com/file/d/1Ob6U5fApcGe1ta4e-Lz14Dd4yC9e627F/view?usp=sharing](https://drive.google.com/file/d/1Ob6U5fApcGe1ta4e-Lz14Dd4yC9e627F/view?usp=sharing)
+- 📄 Know about my experiences : [Rita-Resume](https://drive.google.com/file/d/1RR4QlJyEdYciL40YQn5QAd3N1RPWZw77/view?usp=sharing)
 
 - ⚡ Fun fact : **I am a Bug magnet! ˳✧༚ ⌨️ /✿**
 
