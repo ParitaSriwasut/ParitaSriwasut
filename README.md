@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi , I'm Rita ˚🖐🏻 ༘˚◞♡  </h1>
 <h3 align="center"> ˚ ༘ 🦋𓈒 *. A girl who is passionate about Web development ✧ ⋆♡🪐ˎˊ˗</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=paritasriwasut&label=Profile%20views&color=0e75b6&style=flat" alt="paritasriwasut" /> </p>
+
 
 - 🔭 I’m currently working on : [unitedskin-frontend](https://github.com/ParitaSriwasut/unitedskin-frontend) 
 - 🌱 I’m currently learning : **C# (.NET core), TypeScript, JavaScript Algorithms, MongoDB**
