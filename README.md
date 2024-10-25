@@ -4,8 +4,6 @@
 <h1 align="center">Hi , I'm Rita ˚🖐🏻 ༘˚◞♡  </h1>
 <h3 align="center"> ˚ ༘ 🦋𓈒 *. A girl who is passionate about Web development ✧ ⋆♡🪐ˎˊ˗</h3>
 
-
-- 🔭 I’m currently working on : [unitedskin-frontend](https://github.com/ParitaSriwasut/unitedskin-frontend) 
 - 🌱 I’m currently learning : **C# (.NET core), TypeScript, JavaScript Algorithms, MongoDB**
 
 - 💬 Ask me or give me some advice about : **Anything about Web development ! 🔫˖꙳◦**
